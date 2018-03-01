@@ -16,6 +16,7 @@ import java.io.*;
 
             String st;
             st = br.readLine();
+
 //            while ((st = br.readLine()) != null)
                 System.out.println(st);
         }
